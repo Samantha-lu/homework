@@ -1,0 +1,9 @@
+c:\users\roots\source\repos\homework01\homework02\bin\Debug\homework02.exe
+c:\users\roots\source\repos\homework01\homework02\bin\Debug\homework02.pdb
+c:\users\roots\source\repos\homework01\homework02\obj\Debug\homework02.csprojAssemblyReference.cache
+c:\users\roots\source\repos\homework01\homework02\obj\Debug\homework02.Form1.resources
+c:\users\roots\source\repos\homework01\homework02\obj\Debug\homework02.Properties.Resources.resources
+c:\users\roots\source\repos\homework01\homework02\obj\Debug\homework02.csproj.GenerateResource.cache
+c:\users\roots\source\repos\homework01\homework02\obj\Debug\homework02.csproj.CoreCompileInputs.cache
+c:\users\roots\source\repos\homework01\homework02\obj\Debug\homework02.exe
+c:\users\roots\source\repos\homework01\homework02\obj\Debug\homework02.pdb
