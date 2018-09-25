@@ -1,0 +1,6 @@
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homwork06\homwork06\bin\Debug\homwork06.exe
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homwork06\homwork06\bin\Debug\homwork06.pdb
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homwork06\homwork06\obj\Debug\homwork06.csprojAssemblyReference.cache
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homwork06\homwork06\obj\Debug\homwork06.csproj.CoreCompileInputs.cache
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homwork06\homwork06\obj\Debug\homwork06.exe
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homwork06\homwork06\obj\Debug\homwork06.pdb
