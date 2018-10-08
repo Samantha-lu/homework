@@ -1,0 +1,11 @@
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\obj\Debug\netcoreapp2.0\homework07.csprojAssemblyReference.cache
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\obj\Debug\netcoreapp2.0\homework07.csproj.CoreCompileInputs.cache
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\obj\Debug\netcoreapp2.0\homework07.AssemblyInfoInputs.cache
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\obj\Debug\netcoreapp2.0\homework07.AssemblyInfo.cs
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\bin\Debug\netcoreapp2.0\homework07.deps.json
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\bin\Debug\netcoreapp2.0\homework07.runtimeconfig.json
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\bin\Debug\netcoreapp2.0\homework07.runtimeconfig.dev.json
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\bin\Debug\netcoreapp2.0\homework07.dll
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\bin\Debug\netcoreapp2.0\homework07.pdb
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\obj\Debug\netcoreapp2.0\homework07.dll
+C:\Users\roots\Desktop\学校\大二上\c#\homework\homework07\homework07\obj\Debug\netcoreapp2.0\homework07.pdb
