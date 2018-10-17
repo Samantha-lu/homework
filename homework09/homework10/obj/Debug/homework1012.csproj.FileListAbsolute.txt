@@ -1,0 +1,9 @@
+c:\users\roots\source\repos\homework1012\homework1012\bin\Debug\homework1012.exe
+c:\users\roots\source\repos\homework1012\homework1012\bin\Debug\homework1012.pdb
+c:\users\roots\source\repos\homework1012\homework1012\obj\Debug\homework1012.csprojAssemblyReference.cache
+c:\users\roots\source\repos\homework1012\homework1012\obj\Debug\homework1012.homework09.resources
+c:\users\roots\source\repos\homework1012\homework1012\obj\Debug\homework1012.Properties.Resources.resources
+c:\users\roots\source\repos\homework1012\homework1012\obj\Debug\homework1012.csproj.GenerateResource.cache
+c:\users\roots\source\repos\homework1012\homework1012\obj\Debug\homework1012.csproj.CoreCompileInputs.cache
+c:\users\roots\source\repos\homework1012\homework1012\obj\Debug\homework1012.exe
+c:\users\roots\source\repos\homework1012\homework1012\obj\Debug\homework1012.pdb
